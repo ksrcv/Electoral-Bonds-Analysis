@@ -6,7 +6,7 @@ Dataset, Code and the visualisation all are provided in this repository
 **Data Overview:**
 Columns: Reference No_(URN),Journal Date,Date of Purchase,Date of Expiry,Date of Encashment,Prefix,Bond Number,Purchaser Name,Purchase Amount,Purchaser Type,Issue Branch Code,Issue_Branch_State,Issue_Branch_City,Status,Party Name,Amount,Encash Branch Code,Encash_Branch_State and Encash_Branch_City
 
-Description:
+**Description:** Performed data cleaning, analysis and visualisation on the electoral bonds data released by the Election Commission of India and gained valuable insights.Created an Intuitive Dashboard to present the key findings.
 
 **Reference No_(URN):** Reference number used to track the bond that was purchased
 
